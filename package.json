@@ -1,0 +1,12 @@
+{
+  "name": "unqiuestring",
+  "version": "1.0.0",
+  "description": "Genarates Unique String with options Alphabetic,Alphanumeric,Numeric,alphanumeric symbols.",
+  "main": "index.js",
+  "keywords":"unique string",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish Reddy Maryada",
+  "license": "ISC"
+}
