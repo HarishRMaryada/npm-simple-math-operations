@@ -1,9 +1,8 @@
 {
-  "name": "unqiuestring",
-  "version": "1.0.0",
-  "description": "Genarates Unique String with options Alphabetic,Alphanumeric,Numeric,alphanumeric symbols.",
+  "name": "simple-math-operations",
+  "version": "1.0.3",
+  "description": "Basic math operations",
   "main": "index.js",
-  "keywords":"unique string",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
